@@ -1,0 +1,29 @@
+{
+  "name": "try-natural",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "./node_modules/.bin/mocha --require @babel/register"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/register": "^7.7.0",
+    "babel-preset-env": "^1.7.0",
+    "chalk": "^3.0.0",
+    "fuzzy-search": "^3.0.2",
+    "inquirer": "^7.0.0",
+    "lodash": "^4.17.15",
+    "memoizee": "^0.4.14",
+    "natural": "^0.6.3",
+    "performance-now": "^2.1.0",
+    "trie-search": "^1.2.11"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}

@@ -1,0 +1,2267 @@
+
+I Got this form here : http://districts.nic.in/sitemap.php
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"AN002" - Nicobar
+"AN001" - North and Middle Andaman
+"AN003" - South Andaman
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"AP012" - Anantapur
+"AP010" - Chittoor
+"AP004" - East Godavari
+"AP007" - Guntur
+"AP006" - Krishna
+"AP013" - Kurnool
+"AP008" - Prakasam
+"AP001" - Srikakulam
+"AP009" - Sri Potti Sriramulu Nellore
+"AP003" - Visakhapatnam
+"AP002" - Vizianagaram
+"AP005" - West Godavari
+"AP011" - YSR District, Kadapa (Cuddapah)
+
+
+"dis" class="searchselcbox" - <option - Select District
+"AR016" - Anjaw
+"AR001" - Changlang
+"AR014" - Dibang Valley
+"AR003" - East Kameng
+"AR004" - East Siang
+"AR022" - Kamle
+"AR019" - Kra Daadi
+"AR015" - Kurung Kumey
+"AR024" - Lepa Rada
+"AR005" - Lohit
+"AR017" - Longding
+"AR002" - Lower Dibang Valley
+"AR020" - Lower Siang
+"AR006" - Lower Subansiri
+"AR018" - Namsai
+"AR025" - Pakke Kessang
+"AR007" - Papum Pare
+"AR023" - Shi Yomi
+"AR021" - Siang
+"AR008" - Tawang
+"AR009" - Tirap
+"AR010" - Upper Siang
+"AR011" - Upper Subansiri
+"AR012" - West Kameng
+"AR013" - West Siang
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"AS025" - Baksa
+"AS001" - Barpeta
+"AS028" - Biswanath
+"AS002" - Bongaigaon
+"AS003" - Cachar
+"AS029" - Charaideo
+"AS027" - Chirang
+"AS004" - Darrang
+"AS005" - Dhemaji
+"AS006" - Dhubri
+"AS007" - Dibrugarh
+"AS020" - Dima Hasao (North Cachar Hills)
+"AS008" - Goalpara
+"AS009" - Golaghat
+"AS010" - Hailakandi
+"AS030" - Hojai
+"AS011" - Jorhat
+"AS012" - Kamrup
+"AS026" - Kamrup Metropolitan
+"AS013" - Karbi Anglong
+"AS014" - Karimganj
+"AS015" - Kokrajhar
+"AS016" - Lakhimpur
+"AS033" - Majuli
+"AS017" - Morigaon
+"AS018" - Nagaon
+"AS019" - Nalbari
+"AS021" - Sivasagar
+"AS022" - Sonitpur
+"AS031" - South Salamara-Mankachar
+"AS023" - Tinsukia
+"AS024" - Udalguri
+"AS032" - West Karbi Anglong
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"BR001" - Araria
+"BR038" - Arwal
+"BR002" - Aurangabad
+"BR003" - Banka
+"BR004" - Begusarai
+"BR005" - Bhagalpur
+"BR006" - Bhojpur
+"BR007" - Buxar
+"BR008" - Darbhanga
+"BR026" - East Champaran (Motihari)
+"BR009" - Gaya
+"BR010" - Gopalganj
+"BR011" - Jamui
+"BR012" - Jehanabad
+"BR013" - Kaimur (Bhabua)
+"BR014" - Katihar
+"BR015" - Khagaria
+"BR016" - Kishanganj
+"BR017" - Lakhisarai
+"BR018" - Madhepura
+"BR019" - Madhubani
+"BR020" - Munger (Monghyr)
+"BR021" - Muzaffarpur
+"BR022" - Nalanda
+"BR023" - Nawada
+"BR025" - Patna
+"BR027" - Purnia (Purnea)
+"BR028" - Rohtas
+"BR029" - Saharsa
+"BR030" - Samastipur
+"BR031" - Saran
+"BR032" - Sheikhpura
+"BR033" - Sheohar
+"BR034" - Sitamarhi
+"BR035" - Siwan
+"BR036" - Supaul
+"BR037" - Vaishali
+"BR024" - West Champaran
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"CH001" - Chandigarh
+
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"CG023" - Balod
+"CG026" - Baloda Bazar
+"CG027" - Balrampur
+"CG001" - Bastar
+"CG022" - Bemetara
+"CG018" - Bijapur
+"CG002" - Bilaspur
+"CG003" - Dantewada (South Bastar)
+"CG004" - Dhamtari
+"CG005" - Durg
+"CG024" - Gariyaband
+"CG006" - Janjgir-Champa
+"CG007" - Jashpur
+"CG009" - Kabirdham (Kawardha)
+"CG008" - Kanker (North Bastar)
+"CG021" - Kondagaon
+"CG010" - Korba
+"CG011" - Korea (Koriya)
+"CG012" - Mahasamund
+"CG025" - Mungeli
+"CG017" - Narayanpur
+"CG013" - Raigarh
+"CG014" - Raipur
+"CG015" - Rajnandgaon
+"CG019" - Sukma
+"CG020" - Surajpur  
+"CG016" - Surguja
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"DD001" - Daman
+"DD002" - Diu
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"DL001" - Central Delhi
+"DL002" - East Delhi
+"DL003" - New Delhi
+"DL004" - North Delhi
+"DL005" - North East  Delhi
+"DL006" - North West  Delhi
+"DL011" - Shahdara
+"DL007" - South Delhi
+"DL010" - South East Delhi
+"DL008" - South West  Delhi
+"DL009" - West Delhi
+
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"GA001" - North Goa
+"GA002" - South Goa
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"GJ001" - Ahmedabad
+"GJ002" - Amreli
+"GJ003" - Anand
+"GJ027" - Aravalli
+"GJ004" - Banaskantha (Palanpur)
+"GJ005" - Bharuch
+"GJ006" - Bhavnagar
+"GJ028" - Botad
+"GJ029" - Chhota Udepur
+"GJ007" - Dahod
+"GJ023" - Dangs (Ahwa)
+"GJ030" - Devbhoomi Dwarka
+"GJ008" - Gandhinagar
+"GJ031" - Gir Somnath
+"GJ009" - Jamnagar
+"GJ010" - Junagadh
+"GJ011" - Kachchh
+"GJ012" - Kheda (Nadiad)
+"GJ032" - Mahisagar
+"GJ013" - Mehsana
+"GJ033" - Morbi
+"GJ014" - Narmada (Rajpipla)
+"GJ015" - Navsari
+"GJ016" - Panchmahal (Godhra)
+"GJ017" - Patan
+"GJ018" - Porbandar
+"GJ019" - Rajkot
+"GJ020" - Sabarkantha (Himmatnagar)
+"GJ021" - Surat
+"GJ022" - Surendranagar
+"GJ026" - Tapi (Vyara)
+"GJ024" - Vadodara
+"GJ025" - Valsad
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"HR001" - Ambala
+"HR002" - Bhiwani
+"HR022" - Charkhi Dadri
+"HR003" - Faridabad
+"HR004" - Fatehabad
+"HR005" - Gurgaon
+"HR006" - Hisar
+"HR007" - Jhajjar
+"HR008" - Jind
+"HR009" - Kaithal
+"HR010" - Karnal
+"HR011" - Kurukshetra
+"HR012" - Mahendragarh
+"HR020" - Mewat
+"HR021" - Palwal
+"HR013" - Panchkula
+"HR014" - Panipat
+"HR015" - Rewari
+"HR016" - Rohtak
+"HR017" - Sirsa
+"HR018" - Sonipat
+"HR019" - Yamunanagar
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"HP001" - Bilaspur
+"HP002" - Chamba
+"HP003" - Hamirpur
+"HP004" - Kangra
+"HP005" - Kinnaur
+"HP006" - Kullu
+"HP007" - Lahaul &amp; Spiti
+"HP008" - Mandi
+"HP009" - Shimla
+"HP010" - Sirmaur (Sirmour)
+"HP011" - Solan
+"HP012" - Una
+
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"JK001" - Anantnag
+"JK022" - Bandipore
+"JK003" - Baramulla
+"JK002" - Budgam
+"JK004" - Doda
+"JK021" - Ganderbal
+"JK005" - Jammu
+"JK006" - Kargil
+"JK007" - Kathua
+"JK018" - Kishtwar
+"JK019" - Kulgam
+"JK008" - Kupwara
+"JK009" - Leh
+"JK011" - Poonch
+"JK010" - Pulwama
+"JK012" - Rajouri
+"JK017" - Ramban
+"JK016" - Reasi
+"JK015" - Samba
+"JK020" - Shopian
+"JK013" - Srinagar
+"JK014" - Udhampur
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"JH001" - Bokaro
+"JH002" - Chatra
+"JH003" - Deoghar
+"JH004" - Dhanbad
+"JH005" - Dumka
+"JH016" - East Singhbhum
+"JH006" - Garhwa
+"JH007" - Giridih
+"JH008" - Godda
+"JH009" - Gumla
+"JH010" - Hazaribag
+"JH020" - Jamtara
+"JH024" - Khunti
+"JH011" - Koderma
+"JH021" - Latehar
+"JH012" - Lohardaga
+"JH013" - Pakur
+"JH014" - Palamu
+"JH023" - Ramgarh
+"JH017" - Ranchi
+"JH018" - Sahibganj
+"JH019" - Seraikela-Kharsawan
+"JH022" - Simdega
+"JH015" - West Singhbhum
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"KA001" - Bagalkot
+"KA005" - Ballari (Bellary)
+"KA004" - Belagavi (Belgaum)
+"KA003" - Bengaluru (Bangalore) Rural
+"KA002" - Bengaluru (Bangalore) Urban
+"KA006" - Bidar
+"KA008" - Chamarajanagar
+"KA028" - Chikballapur
+"KA009" - Chikkamagaluru (Chikmagalur)
+"KA010" - Chitradurga
+"KA011" - Dakshina Kannada
+"KA012" - Davangere
+"KA013" - Dharwad
+"KA014" - Gadag
+"KA016" - Hassan
+"KA017" - Haveri
+"KA015" - Kalaburagi (Gulbarga)
+"KA018" - Kodagu
+"KA019" - Kolar
+"KA020" - Koppal
+"KA021" - Mandya
+"KA022" - Mysuru (Mysore)
+"KA023" - Raichur
+"KA030" - Ramanagara
+"KA024" - Shivamogga (Shimoga)
+"KA025" - Tumakuru (Tumkur)
+"KA026" - Udupi
+"KA027" - Uttara Kannada (Karwar)
+"KA007" - Vijayapura (Bijapur)
+"KA029" - Yadgir
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"KL001" - Alappuzha
+"KL002" - Ernakulam
+"KL003" - Idukki
+"KL004" - Kannur
+"KL005" - Kasaragod
+"KL006" - Kollam
+"KL007" - Kottayam
+"KL008" - Kozhikode
+"KL009" - Malappuram
+"KL010" - Palakkad
+"KL011" - Pathanamthitta
+"KL012" - Thiruvananthapuram
+"KL013" - Thrissur
+"KL014" - Wayanad
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"LD001" - Lakshadweep
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"MP053" - Agar Malwa
+"MP052" - Alirajpur
+"MP048" - Anuppur
+"MP050" - Ashoknagar
+"MP001" - Balaghat
+"MP002" - Barwani
+"MP003" - Betul
+"MP004" - Bhind
+"MP005" - Bhopal
+"MP049" - Burhanpur
+"MP006" - Chhatarpur
+"MP007" - Chhindwara
+"MP008" - Damoh
+"MP009" - Datia
+"MP010" - Dewas
+"MP011" - Dhar
+"MP012" - Dindori
+"MP014" - Guna
+"MP015" - Gwalior
+"MP016" - Harda
+"MP017" - Hoshangabad
+"MP018" - Indore
+"MP019" - Jabalpur
+"MP020" - Jhabua
+"MP021" - Katni
+"MP047" - Khandwa
+"MP046" - Khargone
+"MP022" - Mandla
+"MP023" - Mandsaur
+"MP024" - Morena
+"MP025" - Narsinghpur
+"MP026" - Neemuch
+"MP027" - Panna
+"MP028" - Raisen
+"MP029" - Rajgarh
+"MP030" - Ratlam
+"MP031" - Rewa
+"MP032" - Sagar
+"MP033" - Satna
+"MP034" - Sehore
+"MP035" - Seoni
+"MP036" - Shahdol
+"MP037" - Shajapur
+"MP038" - Sheopur
+"MP039" - Shivpuri
+"MP040" - Sidhi
+"MP051" - Singrauli
+"MP041" - Tikamgarh
+"MP042" - Ujjain
+"MP043" - Umaria
+"MP044" - Vidisha
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"MH001" - Ahmednagar
+"MH002" - Akola
+"MH003" - Amravati
+"MH004" - Aurangabad
+"MH006" - Beed
+"MH005" - Bhandara
+"MH007" - Buldhana
+"MH008" - Chandrapur
+"MH009" - Dhule
+"MH010" - Gadchiroli
+"MH011" - Gondia
+"MH012" - Hingoli
+"MH013" - Jalgaon
+"MH014" - Jalna
+"MH015" - Kolhapur
+"MH016" - Latur
+"MH017" - Mumbai City
+"MH018" - Mumbai Suburban
+"MH019" - Nagpur
+"MH020" - Nanded
+"MH021" - Nandurbar
+"MH022" - Nashik
+"MH023" - Osmanabad
+"MH036" - Palghar
+"MH024" - Parbhani
+"MH025" - Pune
+"MH026" - Raigad
+"MH027" - Ratnagiri
+"MH028" - Sangli
+"MH029" - Satara
+"MH030" - Sindhudurg
+"MH031" - Solapur
+"MH032" - Thane
+"MH033" - Wardha
+"MH034" - Washim
+"MH035" - Yavatmal
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"MN001" - Bishnupur
+"MN002" - Chandel
+"MN003" - Churachandpur
+"MN004" - Imphal East
+"MN005" - Imphal West
+"MN015" - Jiribam
+"MN016" - Kakching
+"MN014" - Kamjong
+"MN010" - Kangpokpi
+"MN013" - Noney
+"MN012" - Pherzawl
+"MN006" - Senapati
+"MN007" - Tamenglong
+"MN011" - Tengnoupal
+"MN008" - Thoubal
+"MN009" - Ukhrul
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"ML001" - East Garo Hills
+"ML008" - East Jaintia Hills
+"ML002" - East Khasi Hills
+"ML010" - North Garo Hills
+"ML004" - Ri Bhoi
+"ML005" - South Garo Hills
+"ML011" - South West Garo Hills 
+"ML009" - South West Khasi Hills
+"ML006" - West Garo Hills
+"ML003" - West Jaintia Hills
+"ML007" - West Khasi Hills
+
+
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"MZ001" - Aizawl
+"MZ002" - Champhai
+"MZ003" - Kolasib
+"MZ004" - Lawngtlai
+"MZ005" - Lunglei
+"MZ006" - Mamit
+"MZ007" - Saiha
+"MZ008" - Serchhip
+
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"NL001" - Dimapur
+"NL010" - Kiphire
+"NL002" - Kohima
+"NL011" - Longleng
+"NL003" - Mokokchung
+"NL004" - Mon
+"NL009" - Peren
+"NL005" - Phek
+"NL006" - Tuensang
+"NL007" - Wokha
+"NL008" - Zunheboto
+
+
+"dis" id="dis" class="searchselcbox" - <option>Select District
+"OR001" - Angul
+"OR002" - Balangir
+"OR003" - Balasore
+"OR004" - Bargarh
+"OR006" - Bhadrak
+"OR005" - Boudh
+"OR007" - Cuttack
+"OR008" - Deogarh
+"OR009" - Dhenkanal
+"OR010" - Gajapati
+"OR011" - Ganjam
+"OR012" - Jagatsinghapur
+"OR013" - Jajpur
+"OR014" - Jharsuguda
+"OR015" - Kalahandi
+"OR016" - Kandhamal
+"OR017" - Kendrapara
+"OR018" - Kendujhar (Keonjhar)
+"OR019" - Khordha
+"OR020" - Koraput
+"OR021" - Malkangiri
+"OR022" - Mayurbhanj
+"OR023" - Nabarangpur
+"OR024" - Nayagarh
+"OR025" - Nuapada
+"OR026" - Puri
+"OR027" - Rayagada
+"OR028" - Sambalpur
+"OR029" - Sonepur
+"OR030" - Sundargarh
+
+"PY001" - Karaikal
+"PY002" - Mahe
+"PY003" - Pondicherry
+"PY004" - Yanam
+
+
+"PB001" - Amritsar
+"PB019" - Barnala
+"PB002" - Bathinda
+"PB003" - Faridkot
+"PB004" - Fatehgarh Sahib
+"PB022" - Fazilka
+"PB005" - Ferozepur
+"PB006" - Gurdaspur
+"PB007" - Hoshiarpur
+"PB008" - Jalandhar
+"PB009" - Kapurthala
+"PB010" - Ludhiana
+"PB011" - Mansa
+"PB012" - Moga
+"PB013" - Muktsar
+"PB014" - Nawanshahr (Shahid Bhagat Singh Nagar)
+"PB021" - Pathankot
+"PB015" - Patiala
+"PB016" - Rupnagar
+"PB020" - Sahibzada Ajit Singh Nagar (Mohali)
+"PB017" - Sangrur
+"PB018" - Tarn Taran
+
+
+"RJ001" - Ajmer
+"RJ002" - Alwar
+"RJ003" - Banswara
+"RJ004" - Baran
+"RJ005" - Barmer
+"RJ006" - Bharatpur
+"RJ007" - Bhilwara
+"RJ008" - Bikaner
+"RJ009" - Bundi
+"RJ010" - Chittorgarh
+"RJ011" - Churu
+"RJ012" - Dausa
+"RJ013" - Dholpur
+"RJ014" - Dungarpur
+"RJ016" - Hanumangarh
+"RJ017" - Jaipur
+"RJ018" - Jaisalmer
+"RJ019" - Jalore
+"RJ020" - Jhalawar
+"RJ021" - Jhunjhunu
+"RJ022" - Jodhpur
+"RJ023" - Karauli
+"RJ024" - Kota
+"RJ025" - Nagaur
+"RJ026" - Pali
+"RJ033" - Pratapgarh
+"RJ027" - Rajsamand
+"RJ028" - Sawai Madhopur
+"RJ029" - Sikar
+"RJ030" - Sirohi
+"RJ015" - Sri Ganganagar
+"RJ031" - Tonk
+"RJ032" - Udaipur
+
+
+"SK001" - East Sikkim
+"SK002" - North Sikkim
+"SK003" - South Sikkim
+"SK004" - West Sikkim
+
+
+Tamil Nadu
+"TN032" - Ariyalur
+"TN002" - Chennai
+"TN003" - Coimbatore
+"TN004" - Cuddalore
+"TN005" - Dharmapuri
+"TN006" - Dindigul
+"TN007" - Erode
+"TN008" - Kanchipuram
+"TN009" - Kanyakumari
+"TN010" - Karur
+"TN031" - Krishnagiri
+"TN011" - Madurai
+"TN012" - Nagapattinam
+"TN013" - Namakkal
+"TN020" - Nilgiris
+"TN014" - Perambalur
+"TN015" - Pudukkottai
+"TN016" - Ramanathapuram
+"TN017" - Salem
+"TN018" - Sivaganga
+"TN019" - Thanjavur
+"TN021" - Theni
+"TN024" - Thoothukudi (Tuticorin)
+"TN025" - Tiruchirappalli
+"TN026" - Tirunelveli
+"TN033" - Tiruppur
+"TN022" - Tiruvallur
+"TN027" - Tiruvannamalai
+"TN023" - Tiruvarur
+"TN028" - Vellore
+
+
+Tripura
+"TR001" - Dhalai
+"TR006" - Gomati
+"TR007" - Khowai
+"TR002" - North Tripura
+"TR008" - Sepahijala
+"TR003" - South Tripura
+"TR005" - Unakoti
+"TR004" - West Tripura
+
+Uttarakhand
+"UK001" - Almora
+"UK002" - Bageshwar
+"UK003" - Chamoli
+"UK004" - Champawat
+"UK005" - Dehradun
+"UK007" - Haridwar
+"UK008" - Nainital
+"UK006" - Pauri Garhwal
+"UK009" - Pithoragarh
+"UK010" - Rudraprayag
+"UK011" - Tehri Garhwal
+"UK012" - Udham Singh Nagar
+"UK013" - Uttarkashi
+
+Uttar Pradesh
+"UP001" - Agra
+"UP002" - Aligarh
+"UP003" - Allahabad
+"UP004" - Ambedkar Nagar
+"UP074" - Amethi (Chatrapati Sahuji Mahraj Nagar)
+"UP038" - Amroha (J.P. Nagar)
+"UP005" - Auraiya
+"UP006" - Azamgarh
+"UP007" - Baghpat
+"UP008" - Bahraich
+"UP009" - Ballia
+"UP010" - Balrampur
+"UP011" - Banda
+"UP012" - Barabanki
+"UP013" - Bareilly
+"UP014" - Basti
+"UP062" - Bhadohi
+"UP015" - Bijnor
+"UP016" - Budaun
+"UP017" - Bulandshahr
+"UP018" - Chandauli
+"UP019" - Chitrakoot
+"UP020" - Deoria
+"UP021" - Etah
+"UP022" - Etawah
+"UP023" - Faizabad
+"UP024" - Farrukhabad
+"UP025" - Fatehpur
+"UP026" - Firozabad
+"UP027" - Gautam Buddha Nagar
+"UP028" - Ghaziabad
+"UP029" - Ghazipur
+"UP030" - Gonda
+"UP031" - Gorakhpur
+"UP032" - Hamirpur
+"UP073" - Hapur (Panchsheel Nagar)
+"UP033" - Hardoi
+"UP034" - Hathras
+"UP035" - Jalaun
+"UP036" - Jaunpur
+"UP037" - Jhansi
+"UP039" - Kannauj
+"UP040" - Kanpur Dehat
+"UP041" - Kanpur Nagar
+"UP071" - Kanshiram Nagar (Kasganj)
+"UP042" - Kaushambi
+"UP044" - Kushinagar (Padrauna)
+"UP043" - Lakhimpur - Kheri
+"UP045" - Lalitpur
+"UP046" - Lucknow
+"UP047" - Maharajganj
+"UP048" - Mahoba
+"UP049" - Mainpuri
+"UP050" - Mathura
+"UP051" - Mau
+"UP052" - Meerut
+"UP053" - Mirzapur
+"UP054" - Moradabad
+"UP055" - Muzaffarnagar
+"UP056" - Pilibhit
+"UP057" - Pratapgarh
+"UP058" - RaeBareli
+"UP059" - Rampur
+"UP060" - Saharanpur
+"UP072" - Sambhal (Bhim Nagar)
+"UP061" - Sant Kabir Nagar
+"UP063" - Shahjahanpur
+"UP075" - Shamali (Prabuddh Nagar)
+"UP064" - Shravasti
+"UP065" - Siddharth Nagar
+"UP066" - Sitapur
+"UP067" - Sonbhadra
+"UP068" - Sultanpur
+"UP069" - Unnao
+"UP070" - Varanasi
+
+West Bengal 
+"WB022" - Alipurduar
+"WB001" - Bankura
+"WB003" - Birbhum
+"WB009" - Cooch Behar
+"WB004" - Dakshin Dinajpur (South Dinajpur)
+"WB005" - Darjeeling
+"WB007" - Hooghly
+"WB006" - Howrah
+"WB008" - Jalpaiguri
+"WB023" - Jhargram
+"WB021" - Kalimpong
+"WB020" - Kolkata
+"WB011" - Malda
+"WB013" - Murshidabad
+"WB014" - Nadia
+"WB015" - North 24 Parganas
+"WB019" - Paschim Medinipur (West Medinipur)
+"WB024" - Paschim (West) Burdwan (Bardhaman)
+"WB002" - Purba Burdwan (Bardhaman)
+"WB012" - Purba Medinipur (East Medinipur)
+"WB016" - Purulia
+"WB017" - South 24 Parganas
+"WB018" - Uttar Dinajpur (North Dinajpur)
+
+Telangana
+"TG006" - Adilabad
+"TG011" - Bhadradri Kothagudem
+"TG003" - Hyderabad
+"TG012" - Jagtial
+"TG013" - Jangaon
+"TG014" - Jayashankar Bhoopalpally
+"TG015" - Jogulamba Gadwal
+"TG016" - Kamareddy
+"TG007" - Karimnagar
+"TG009" - Khammam
+"TG017" - Komaram Bheem Asifabad
+"TG018" - Mahabubabad
+"TG001" - Mahabubnagar
+"TG019" - Mancherial
+"TG004" - Medak
+"TG020" - Medchal
+"TG021" - Nagarkurnool
+"TG010" - Nalgonda
+"TG022" - Nirmal
+"TG005" - Nizamabad
+"TG023" - Peddapalli
+"TG024" - Rajanna Sircilla
+"TG002" - Rangareddy
+"TG025" - Sangareddy
+"TG026" - Siddipet
+"TG027" - Suryapet
+"TG028" - Vikarabad
+"TG029" - Wanaparthy
+"TG030" - Warangal (Rural)
+"TG008" - Warangal (Urban)
+"TG031" - Yadadri Bhuvanagiri
+
+
+====================================
+District Names Alone
+====================================
+"AN002" - Nicobar
+"AN001" - North and Middle Andaman
+"AN003" - South Andaman
+"AP012" - Anantapur
+"AP010" - Chittoor
+"AP004" - East Godavari
+"AP007" - Guntur
+"AP006" - Krishna
+"AP013" - Kurnool
+"AP008" - Prakasam
+"AP001" - Srikakulam
+"AP009" - Sri Potti Sriramulu Nellore
+"AP003" - Visakhapatnam
+"AP002" - Vizianagaram
+"AP005" - West Godavari
+"AP011" - YSR District, Kadapa (Cuddapah)
+"AR016" - Anjaw
+"AR001" - Changlang
+"AR014" - Dibang Valley
+"AR003" - East Kameng
+"AR004" - East Siang
+"AR022" - Kamle
+"AR019" - Kra Daadi
+"AR015" - Kurung Kumey
+"AR024" - Lepa Rada
+"AR005" - Lohit
+"AR017" - Longding
+"AR002" - Lower Dibang Valley
+"AR020" - Lower Siang
+"AR006" - Lower Subansiri
+"AR018" - Namsai
+"AR025" - Pakke Kessang
+"AR007" - Papum Pare
+"AR023" - Shi Yomi
+"AR021" - Siang
+"AR008" - Tawang
+"AR009" - Tirap
+"AR010" - Upper Siang
+"AR011" - Upper Subansiri
+"AR012" - West Kameng
+"AR013" - West Siang
+"AS025" - Baksa
+"AS001" - Barpeta
+"AS028" - Biswanath
+"AS002" - Bongaigaon
+"AS003" - Cachar
+"AS029" - Charaideo
+"AS027" - Chirang
+"AS004" - Darrang
+"AS005" - Dhemaji
+"AS006" - Dhubri
+"AS007" - Dibrugarh
+"AS020" - Dima Hasao (North Cachar Hills)
+"AS008" - Goalpara
+"AS009" - Golaghat
+"AS010" - Hailakandi
+"AS030" - Hojai
+"AS011" - Jorhat
+"AS012" - Kamrup
+"AS026" - Kamrup Metropolitan
+"AS013" - Karbi Anglong
+"AS014" - Karimganj
+"AS015" - Kokrajhar
+"AS016" - Lakhimpur
+"AS033" - Majuli
+"AS017" - Morigaon
+"AS018" - Nagaon
+"AS019" - Nalbari
+"AS021" - Sivasagar
+"AS022" - Sonitpur
+"AS031" - South Salamara-Mankachar
+"AS023" - Tinsukia
+"AS024" - Udalguri
+"AS032" - West Karbi Anglong
+"BR001" - Araria
+"BR038" - Arwal
+"BR002" - Aurangabad
+"BR003" - Banka
+"BR004" - Begusarai
+"BR005" - Bhagalpur
+"BR006" - Bhojpur
+"BR007" - Buxar
+"BR008" - Darbhanga
+"BR026" - East Champaran (Motihari)
+"BR009" - Gaya
+"BR010" - Gopalganj
+"BR011" - Jamui
+"BR012" - Jehanabad
+"BR013" - Kaimur (Bhabua)
+"BR014" - Katihar
+"BR015" - Khagaria
+"BR016" - Kishanganj
+"BR017" - Lakhisarai
+"BR018" - Madhepura
+"BR019" - Madhubani
+"BR020" - Munger (Monghyr)
+"BR021" - Muzaffarpur
+"BR022" - Nalanda
+"BR023" - Nawada
+"BR025" - Patna
+"BR027" - Purnia (Purnea)
+"BR028" - Rohtas
+"BR029" - Saharsa
+"BR030" - Samastipur
+"BR031" - Saran
+"BR032" - Sheikhpura
+"BR033" - Sheohar
+"BR034" - Sitamarhi
+"BR035" - Siwan
+"BR036" - Supaul
+"BR037" - Vaishali
+"BR024" - West Champaran
+"CH001" - Chandigarh
+"CG023" - Balod
+"CG026" - Baloda Bazar
+"CG027" - Balrampur
+"CG001" - Bastar
+"CG022" - Bemetara
+"CG018" - Bijapur
+"CG002" - Bilaspur
+"CG003" - Dantewada (South Bastar)
+"CG004" - Dhamtari
+"CG005" - Durg
+"CG024" - Gariyaband
+"CG006" - Janjgir-Champa
+"CG007" - Jashpur
+"CG009" - Kabirdham (Kawardha)
+"CG008" - Kanker (North Bastar)
+"CG021" - Kondagaon
+"CG010" - Korba
+"CG011" - Korea (Koriya)
+"CG012" - Mahasamund
+"CG025" - Mungeli
+"CG017" - Narayanpur
+"CG013" - Raigarh
+"CG014" - Raipur
+"CG015" - Rajnandgaon
+"CG019" - Sukma
+"CG020" - Surajpur  
+"CG016" - Surguja
+"DD001" - Daman
+"DD002" - Diu
+"DL001" - Central Delhi
+"DL002" - East Delhi
+"DL003" - New Delhi
+"DL004" - North Delhi
+"DL005" - North East  Delhi
+"DL006" - North West  Delhi
+"DL011" - Shahdara
+"DL007" - South Delhi
+"DL010" - South East Delhi
+"DL008" - South West  Delhi
+"DL009" - West Delhi
+"GA001" - North Goa
+"GA002" - South Goa
+"GJ001" - Ahmedabad
+"GJ002" - Amreli
+"GJ003" - Anand
+"GJ027" - Aravalli
+"GJ004" - Banaskantha (Palanpur)
+"GJ005" - Bharuch
+"GJ006" - Bhavnagar
+"GJ028" - Botad
+"GJ029" - Chhota Udepur
+"GJ007" - Dahod
+"GJ023" - Dangs (Ahwa)
+"GJ030" - Devbhoomi Dwarka
+"GJ008" - Gandhinagar
+"GJ031" - Gir Somnath
+"GJ009" - Jamnagar
+"GJ010" - Junagadh
+"GJ011" - Kachchh
+"GJ012" - Kheda (Nadiad)
+"GJ032" - Mahisagar
+"GJ013" - Mehsana
+"GJ033" - Morbi
+"GJ014" - Narmada (Rajpipla)
+"GJ015" - Navsari
+"GJ016" - Panchmahal (Godhra)
+"GJ017" - Patan
+"GJ018" - Porbandar
+"GJ019" - Rajkot
+"GJ020" - Sabarkantha (Himmatnagar)
+"GJ021" - Surat
+"GJ022" - Surendranagar
+"GJ026" - Tapi (Vyara)
+"GJ024" - Vadodara
+"GJ025" - Valsad
+"HR001" - Ambala
+"HR002" - Bhiwani
+"HR022" - Charkhi Dadri
+"HR003" - Faridabad
+"HR004" - Fatehabad
+"HR005" - Gurgaon
+"HR006" - Hisar
+"HR007" - Jhajjar
+"HR008" - Jind
+"HR009" - Kaithal
+"HR010" - Karnal
+"HR011" - Kurukshetra
+"HR012" - Mahendragarh
+"HR020" - Mewat
+"HR021" - Palwal
+"HR013" - Panchkula
+"HR014" - Panipat
+"HR015" - Rewari
+"HR016" - Rohtak
+"HR017" - Sirsa
+"HR018" - Sonipat
+"HR019" - Yamunanagar
+"HP001" - Bilaspur
+"HP002" - Chamba
+"HP003" - Hamirpur
+"HP004" - Kangra
+"HP005" - Kinnaur
+"HP006" - Kullu
+"HP007" - Lahaul &amp; Spiti
+"HP008" - Mandi
+"HP009" - Shimla
+"HP010" - Sirmaur (Sirmour)
+"HP011" - Solan
+"HP012" - Una
+"JK001" - Anantnag
+"JK022" - Bandipore
+"JK003" - Baramulla
+"JK002" - Budgam
+"JK004" - Doda
+"JK021" - Ganderbal
+"JK005" - Jammu
+"JK006" - Kargil
+"JK007" - Kathua
+"JK018" - Kishtwar
+"JK019" - Kulgam
+"JK008" - Kupwara
+"JK009" - Leh
+"JK011" - Poonch
+"JK010" - Pulwama
+"JK012" - Rajouri
+"JK017" - Ramban
+"JK016" - Reasi
+"JK015" - Samba
+"JK020" - Shopian
+"JK013" - Srinagar
+"JK014" - Udhampur
+"JH001" - Bokaro
+"JH002" - Chatra
+"JH003" - Deoghar
+"JH004" - Dhanbad
+"JH005" - Dumka
+"JH016" - East Singhbhum
+"JH006" - Garhwa
+"JH007" - Giridih
+"JH008" - Godda
+"JH009" - Gumla
+"JH010" - Hazaribag
+"JH020" - Jamtara
+"JH024" - Khunti
+"JH011" - Koderma
+"JH021" - Latehar
+"JH012" - Lohardaga
+"JH013" - Pakur
+"JH014" - Palamu
+"JH023" - Ramgarh
+"JH017" - Ranchi
+"JH018" - Sahibganj
+"JH019" - Seraikela-Kharsawan
+"JH022" - Simdega
+"JH015" - West Singhbhum
+"KA001" - Bagalkot
+"KA005" - Ballari (Bellary)
+"KA004" - Belagavi (Belgaum)
+"KA003" - Bengaluru (Bangalore) Rural
+"KA002" - Bengaluru (Bangalore) Urban
+"KA006" - Bidar
+"KA008" - Chamarajanagar
+"KA028" - Chikballapur
+"KA009" - Chikkamagaluru (Chikmagalur)
+"KA010" - Chitradurga
+"KA011" - Dakshina Kannada
+"KA012" - Davangere
+"KA013" - Dharwad
+"KA014" - Gadag
+"KA016" - Hassan
+"KA017" - Haveri
+"KA015" - Kalaburagi (Gulbarga)
+"KA018" - Kodagu
+"KA019" - Kolar
+"KA020" - Koppal
+"KA021" - Mandya
+"KA022" - Mysuru (Mysore)
+"KA023" - Raichur
+"KA030" - Ramanagara
+"KA024" - Shivamogga (Shimoga)
+"KA025" - Tumakuru (Tumkur)
+"KA026" - Udupi
+"KA027" - Uttara Kannada (Karwar)
+"KA007" - Vijayapura (Bijapur)
+"KA029" - Yadgir
+"KL001" - Alappuzha
+"KL002" - Ernakulam
+"KL003" - Idukki
+"KL004" - Kannur
+"KL005" - Kasaragod
+"KL006" - Kollam
+"KL007" - Kottayam
+"KL008" - Kozhikode
+"KL009" - Malappuram
+"KL010" - Palakkad
+"KL011" - Pathanamthitta
+"KL012" - Thiruvananthapuram
+"KL013" - Thrissur
+"KL014" - Wayanad
+"LD001" - Lakshadweep
+"MP053" - Agar Malwa
+"MP052" - Alirajpur
+"MP048" - Anuppur
+"MP050" - Ashoknagar
+"MP001" - Balaghat
+"MP002" - Barwani
+"MP003" - Betul
+"MP004" - Bhind
+"MP005" - Bhopal
+"MP049" - Burhanpur
+"MP006" - Chhatarpur
+"MP007" - Chhindwara
+"MP008" - Damoh
+"MP009" - Datia
+"MP010" - Dewas
+"MP011" - Dhar
+"MP012" - Dindori
+"MP014" - Guna
+"MP015" - Gwalior
+"MP016" - Harda
+"MP017" - Hoshangabad
+"MP018" - Indore
+"MP019" - Jabalpur
+"MP020" - Jhabua
+"MP021" - Katni
+"MP047" - Khandwa
+"MP046" - Khargone
+"MP022" - Mandla
+"MP023" - Mandsaur
+"MP024" - Morena
+"MP025" - Narsinghpur
+"MP026" - Neemuch
+"MP027" - Panna
+"MP028" - Raisen
+"MP029" - Rajgarh
+"MP030" - Ratlam
+"MP031" - Rewa
+"MP032" - Sagar
+"MP033" - Satna
+"MP034" - Sehore
+"MP035" - Seoni
+"MP036" - Shahdol
+"MP037" - Shajapur
+"MP038" - Sheopur
+"MP039" - Shivpuri
+"MP040" - Sidhi
+"MP051" - Singrauli
+"MP041" - Tikamgarh
+"MP042" - Ujjain
+"MP043" - Umaria
+"MP044" - Vidisha
+"MH001" - Ahmednagar
+"MH002" - Akola
+"MH003" - Amravati
+"MH004" - Aurangabad
+"MH006" - Beed
+"MH005" - Bhandara
+"MH007" - Buldhana
+"MH008" - Chandrapur
+"MH009" - Dhule
+"MH010" - Gadchiroli
+"MH011" - Gondia
+"MH012" - Hingoli
+"MH013" - Jalgaon
+"MH014" - Jalna
+"MH015" - Kolhapur
+"MH016" - Latur
+"MH017" - Mumbai City
+"MH018" - Mumbai Suburban
+"MH019" - Nagpur
+"MH020" - Nanded
+"MH021" - Nandurbar
+"MH022" - Nashik
+"MH023" - Osmanabad
+"MH036" - Palghar
+"MH024" - Parbhani
+"MH025" - Pune
+"MH026" - Raigad
+"MH027" - Ratnagiri
+"MH028" - Sangli
+"MH029" - Satara
+"MH030" - Sindhudurg
+"MH031" - Solapur
+"MH032" - Thane
+"MH033" - Wardha
+"MH034" - Washim
+"MH035" - Yavatmal
+"MN001" - Bishnupur
+"MN002" - Chandel
+"MN003" - Churachandpur
+"MN004" - Imphal East
+"MN005" - Imphal West
+"MN015" - Jiribam
+"MN016" - Kakching
+"MN014" - Kamjong
+"MN010" - Kangpokpi
+"MN013" - Noney
+"MN012" - Pherzawl
+"MN006" - Senapati
+"MN007" - Tamenglong
+"MN011" - Tengnoupal
+"MN008" - Thoubal
+"MN009" - Ukhrul
+"ML001" - East Garo Hills
+"ML008" - East Jaintia Hills
+"ML002" - East Khasi Hills
+"ML010" - North Garo Hills
+"ML004" - Ri Bhoi
+"ML005" - South Garo Hills
+"ML011" - South West Garo Hills 
+"ML009" - South West Khasi Hills
+"ML006" - West Garo Hills
+"ML003" - West Jaintia Hills
+"ML007" - West Khasi Hills
+"MZ001" - Aizawl
+"MZ002" - Champhai
+"MZ003" - Kolasib
+"MZ004" - Lawngtlai
+"MZ005" - Lunglei
+"MZ006" - Mamit
+"MZ007" - Saiha
+"MZ008" - Serchhip
+"NL001" - Dimapur
+"NL010" - Kiphire
+"NL002" - Kohima
+"NL011" - Longleng
+"NL003" - Mokokchung
+"NL004" - Mon
+"NL009" - Peren
+"NL005" - Phek
+"NL006" - Tuensang
+"NL007" - Wokha
+"NL008" - Zunheboto
+"OR001" - Angul
+"OR002" - Balangir
+"OR003" - Balasore
+"OR004" - Bargarh
+"OR006" - Bhadrak
+"OR005" - Boudh
+"OR007" - Cuttack
+"OR008" - Deogarh
+"OR009" - Dhenkanal
+"OR010" - Gajapati
+"OR011" - Ganjam
+"OR012" - Jagatsinghapur
+"OR013" - Jajpur
+"OR014" - Jharsuguda
+"OR015" - Kalahandi
+"OR016" - Kandhamal
+"OR017" - Kendrapara
+"OR018" - Kendujhar (Keonjhar)
+"OR019" - Khordha
+"OR020" - Koraput
+"OR021" - Malkangiri
+"OR022" - Mayurbhanj
+"OR023" - Nabarangpur
+"OR024" - Nayagarh
+"OR025" - Nuapada
+"OR026" - Puri
+"OR027" - Rayagada
+"OR028" - Sambalpur
+"OR029" - Sonepur
+"OR030" - Sundargarh
+"PY001" - Karaikal
+"PY002" - Mahe
+"PY003" - Pondicherry
+"PY004" - Yanam
+"PB001" - Amritsar
+"PB019" - Barnala
+"PB002" - Bathinda
+"PB003" - Faridkot
+"PB004" - Fatehgarh Sahib
+"PB022" - Fazilka
+"PB005" - Ferozepur
+"PB006" - Gurdaspur
+"PB007" - Hoshiarpur
+"PB008" - Jalandhar
+"PB009" - Kapurthala
+"PB010" - Ludhiana
+"PB011" - Mansa
+"PB012" - Moga
+"PB013" - Muktsar
+"PB014" - Nawanshahr (Shahid Bhagat Singh Nagar)
+"PB021" - Pathankot
+"PB015" - Patiala
+"PB016" - Rupnagar
+"PB020" - Sahibzada Ajit Singh Nagar (Mohali)
+"PB017" - Sangrur
+"PB018" - Tarn Taran
+
+
+"RJ001" - Ajmer
+"RJ002" - Alwar
+"RJ003" - Banswara
+"RJ004" - Baran
+"RJ005" - Barmer
+"RJ006" - Bharatpur
+"RJ007" - Bhilwara
+"RJ008" - Bikaner
+"RJ009" - Bundi
+"RJ010" - Chittorgarh
+"RJ011" - Churu
+"RJ012" - Dausa
+"RJ013" - Dholpur
+"RJ014" - Dungarpur
+"RJ016" - Hanumangarh
+"RJ017" - Jaipur
+"RJ018" - Jaisalmer
+"RJ019" - Jalore
+"RJ020" - Jhalawar
+"RJ021" - Jhunjhunu
+"RJ022" - Jodhpur
+"RJ023" - Karauli
+"RJ024" - Kota
+"RJ025" - Nagaur
+"RJ026" - Pali
+"RJ033" - Pratapgarh
+"RJ027" - Rajsamand
+"RJ028" - Sawai Madhopur
+"RJ029" - Sikar
+"RJ030" - Sirohi
+"RJ015" - Sri Ganganagar
+"RJ031" - Tonk
+"RJ032" - Udaipur
+
+
+"SK001" - East Sikkim
+"SK002" - North Sikkim
+"SK003" - South Sikkim
+"SK004" - West Sikkim
+
+
+Tamil Nadu
+"TN032" - Ariyalur
+"TN002" - Chennai
+"TN003" - Coimbatore
+"TN004" - Cuddalore
+"TN005" - Dharmapuri
+"TN006" - Dindigul
+"TN007" - Erode
+"TN008" - Kanchipuram
+"TN009" - Kanyakumari
+"TN010" - Karur
+"TN031" - Krishnagiri
+"TN011" - Madurai
+"TN012" - Nagapattinam
+"TN013" - Namakkal
+"TN020" - Nilgiris
+"TN014" - Perambalur
+"TN015" - Pudukkottai
+"TN016" - Ramanathapuram
+"TN017" - Salem
+"TN018" - Sivaganga
+"TN019" - Thanjavur
+"TN021" - Theni
+"TN024" - Thoothukudi (Tuticorin)
+"TN025" - Tiruchirappalli
+"TN026" - Tirunelveli
+"TN033" - Tiruppur
+"TN022" - Tiruvallur
+"TN027" - Tiruvannamalai
+"TN023" - Tiruvarur
+"TN028" - Vellore
+
+
+Tripura
+"TR001" - Dhalai
+"TR006" - Gomati
+"TR007" - Khowai
+"TR002" - North Tripura
+"TR008" - Sepahijala
+"TR003" - South Tripura
+"TR005" - Unakoti
+"TR004" - West Tripura
+
+Uttarakhand
+"UK001" - Almora
+"UK002" - Bageshwar
+"UK003" - Chamoli
+"UK004" - Champawat
+"UK005" - Dehradun
+"UK007" - Haridwar
+"UK008" - Nainital
+"UK006" - Pauri Garhwal
+"UK009" - Pithoragarh
+"UK010" - Rudraprayag
+"UK011" - Tehri Garhwal
+"UK012" - Udham Singh Nagar
+"UK013" - Uttarkashi
+
+Uttar Pradesh
+"UP001" - Agra
+"UP002" - Aligarh
+"UP003" - Allahabad
+"UP004" - Ambedkar Nagar
+"UP074" - Amethi (Chatrapati Sahuji Mahraj Nagar)
+"UP038" - Amroha (J.P. Nagar)
+"UP005" - Auraiya
+"UP006" - Azamgarh
+"UP007" - Baghpat
+"UP008" - Bahraich
+"UP009" - Ballia
+"UP010" - Balrampur
+"UP011" - Banda
+"UP012" - Barabanki
+"UP013" - Bareilly
+"UP014" - Basti
+"UP062" - Bhadohi
+"UP015" - Bijnor
+"UP016" - Budaun
+"UP017" - Bulandshahr
+"UP018" - Chandauli
+"UP019" - Chitrakoot
+"UP020" - Deoria
+"UP021" - Etah
+"UP022" - Etawah
+"UP023" - Faizabad
+"UP024" - Farrukhabad
+"UP025" - Fatehpur
+"UP026" - Firozabad
+"UP027" - Gautam Buddha Nagar
+"UP028" - Ghaziabad
+"UP029" - Ghazipur
+"UP030" - Gonda
+"UP031" - Gorakhpur
+"UP032" - Hamirpur
+"UP073" - Hapur (Panchsheel Nagar)
+"UP033" - Hardoi
+"UP034" - Hathras
+"UP035" - Jalaun
+"UP036" - Jaunpur
+"UP037" - Jhansi
+"UP039" - Kannauj
+"UP040" - Kanpur Dehat
+"UP041" - Kanpur Nagar
+"UP071" - Kanshiram Nagar (Kasganj)
+"UP042" - Kaushambi
+"UP044" - Kushinagar (Padrauna)
+"UP043" - Lakhimpur - Kheri
+"UP045" - Lalitpur
+"UP046" - Lucknow
+"UP047" - Maharajganj
+"UP048" - Mahoba
+"UP049" - Mainpuri
+"UP050" - Mathura
+"UP051" - Mau
+"UP052" - Meerut
+"UP053" - Mirzapur
+"UP054" - Moradabad
+"UP055" - Muzaffarnagar
+"UP056" - Pilibhit
+"UP057" - Pratapgarh
+"UP058" - RaeBareli
+"UP059" - Rampur
+"UP060" - Saharanpur
+"UP072" - Sambhal (Bhim Nagar)
+"UP061" - Sant Kabir Nagar
+"UP063" - Shahjahanpur
+"UP075" - Shamali (Prabuddh Nagar)
+"UP064" - Shravasti
+"UP065" - Siddharth Nagar
+"UP066" - Sitapur
+"UP067" - Sonbhadra
+"UP068" - Sultanpur
+"UP069" - Unnao
+"UP070" - Varanasi
+
+West Bengal 
+"WB022" - Alipurduar
+"WB001" - Bankura
+"WB003" - Birbhum
+"WB009" - Cooch Behar
+"WB004" - Dakshin Dinajpur (South Dinajpur)
+"WB005" - Darjeeling
+"WB007" - Hooghly
+"WB006" - Howrah
+"WB008" - Jalpaiguri
+"WB023" - Jhargram
+"WB021" - Kalimpong
+"WB020" - Kolkata
+"WB011" - Malda
+"WB013" - Murshidabad
+"WB014" - Nadia
+"WB015" - North 24 Parganas
+"WB019" - Paschim Medinipur (West Medinipur)
+"WB024" - Paschim (West) Burdwan (Bardhaman)
+"WB002" - Purba Burdwan (Bardhaman)
+"WB012" - Purba Medinipur (East Medinipur)
+"WB016" - Purulia
+"WB017" - South 24 Parganas
+"WB018" - Uttar Dinajpur (North Dinajpur)
+
+Telangana
+"TG006" - Adilabad
+"TG011" - Bhadradri Kothagudem
+"TG003" - Hyderabad
+"TG012" - Jagtial
+"TG013" - Jangaon
+"TG014" - Jayashankar Bhoopalpally
+"TG015" - Jogulamba Gadwal
+"TG016" - Kamareddy
+"TG007" - Karimnagar
+"TG009" - Khammam
+"TG017" - Komaram Bheem Asifabad
+"TG018" - Mahabubabad
+"TG001" - Mahabubnagar
+"TG019" - Mancherial
+"TG004" - Medak
+"TG020" - Medchal
+"TG021" - Nagarkurnool
+"TG010" - Nalgonda
+"TG022" - Nirmal
+"TG005" - Nizamabad
+"TG023" - Peddapalli
+"TG024" - Rajanna Sircilla
+"TG002" - Rangareddy
+"TG025" - Sangareddy
+"TG026" - Siddipet
+"TG027" - Suryapet
+"TG028" - Vikarabad
+"TG029" - Wanaparthy
+"TG030" - Warangal (Rural)
+"TG008" - Warangal (Urban)
+"TG031" - Yadadri Bhuvanagiri
+
+
+
+====================================
+District Names Alone
+====================================
+NICOBAR
+NORTH AND MIDDLE ANDAMAN
+SOUTH ANDAMAN
+ANANTAPUR
+CHITTOOR
+EAST GODAVARI
+GUNTUR
+KRISHNA
+KURNOOL
+PRAKASAM
+SRIKAKULAM
+SRI POTTI SRIRAMULU NELLORE
+VISAKHAPATNAM
+VIZIANAGARAM
+WEST GODAVARI
+YSR DISTRICT, KADAPA (CUDDAPAH)
+ANJAW
+CHANGLANG
+DIBANG VALLEY
+EAST KAMENG
+EAST SIANG
+KAMLE
+KRA DAADI
+KURUNG KUMEY
+LEPA RADA
+LOHIT
+LONGDING
+LOWER DIBANG VALLEY
+LOWER SIANG
+LOWER SUBANSIRI
+NAMSAI
+PAKKE KESSANG
+PAPUM PARE
+SHI YOMI
+SIANG
+TAWANG
+TIRAP
+UPPER SIANG
+UPPER SUBANSIRI
+WEST KAMENG
+WEST SIANG
+BAKSA
+BARPETA
+BISWANATH
+BONGAIGAON
+CACHAR
+CHARAIDEO
+CHIRANG
+DARRANG
+DHEMAJI
+DHUBRI
+DIBRUGARH
+DIMA HASAO (NORTH CACHAR HILLS)
+GOALPARA
+GOLAGHAT
+HAILAKANDI
+HOJAI
+JORHAT
+KAMRUP
+KAMRUP METROPOLITAN
+KARBI ANGLONG
+KARIMGANJ
+KOKRAJHAR
+LAKHIMPUR
+MAJULI
+MORIGAON
+NAGAON
+NALBARI
+SIVASAGAR
+SONITPUR
+SOUTH SALAMARA-MANKACHAR
+TINSUKIA
+UDALGURI
+WEST KARBI ANGLONG
+ARARIA
+ARWAL
+AURANGABAD
+BANKA
+BEGUSARAI
+BHAGALPUR
+BHOJPUR
+BUXAR
+DARBHANGA
+EAST CHAMPARAN (MOTIHARI)
+GAYA
+GOPALGANJ
+JAMUI
+JEHANABAD
+KAIMUR (BHABUA)
+KATIHAR
+KHAGARIA
+KISHANGANJ
+LAKHISARAI
+MADHEPURA
+MADHUBANI
+MUNGER (MONGHYR)
+MUZAFFARPUR
+NALANDA
+NAWADA
+PATNA
+PURNIA (PURNEA)
+ROHTAS
+SAHARSA
+SAMASTIPUR
+SARAN
+SHEIKHPURA
+SHEOHAR
+SITAMARHI
+SIWAN
+SUPAUL
+VAISHALI
+WEST CHAMPARAN
+CHANDIGARH
+BALOD
+BALODA BAZAR
+BALRAMPUR
+BASTAR
+BEMETARA
+BIJAPUR
+BILASPUR
+DANTEWADA (SOUTH BASTAR)
+DHAMTARI
+DURG
+GARIYABAND
+JANJGIR-CHAMPA
+JASHPUR
+KABIRDHAM (KAWARDHA)
+KANKER (NORTH BASTAR)
+KONDAGAON
+KORBA
+KOREA (KORIYA)
+MAHASAMUND
+MUNGELI
+NARAYANPUR
+RAIGARH
+RAIPUR
+RAJNANDGAON
+SUKMA
+SURAJPUR  
+SURGUJA
+DAMAN
+DIU
+CENTRAL DELHI
+EAST DELHI
+NEW DELHI
+NORTH DELHI
+NORTH EAST  DELHI
+NORTH WEST  DELHI
+SHAHDARA
+SOUTH DELHI
+SOUTH EAST DELHI
+SOUTH WEST  DELHI
+WEST DELHI
+NORTH GOA
+SOUTH GOA
+AHMEDABAD
+AMRELI
+ANAND
+ARAVALLI
+BANASKANTHA (PALANPUR)
+BHARUCH
+BHAVNAGAR
+BOTAD
+CHHOTA UDEPUR
+DAHOD
+DANGS (AHWA)
+DEVBHOOMI DWARKA
+GANDHINAGAR
+GIR SOMNATH
+JAMNAGAR
+JUNAGADH
+KACHCHH
+KHEDA (NADIAD)
+MAHISAGAR
+MEHSANA
+MORBI
+NARMADA (RAJPIPLA)
+NAVSARI
+PANCHMAHAL (GODHRA)
+PATAN
+PORBANDAR
+RAJKOT
+SABARKANTHA (HIMMATNAGAR)
+SURAT
+SURENDRANAGAR
+TAPI (VYARA)
+VADODARA
+VALSAD
+AMBALA
+BHIWANI
+CHARKHI DADRI
+FARIDABAD
+FATEHABAD
+GURGAON
+HISAR
+JHAJJAR
+JIND
+KAITHAL
+KARNAL
+KURUKSHETRA
+MAHENDRAGARH
+MEWAT
+PALWAL
+PANCHKULA
+PANIPAT
+REWARI
+ROHTAK
+SIRSA
+SONIPAT
+YAMUNANAGAR
+BILASPUR
+CHAMBA
+HAMIRPUR
+KANGRA
+KINNAUR
+KULLU
+LAHAUL &AMP; SPITI
+MANDI
+SHIMLA
+SIRMAUR (SIRMOUR)
+SOLAN
+UNA
+ANANTNAG
+BANDIPORE
+BARAMULLA
+BUDGAM
+DODA
+GANDERBAL
+JAMMU
+KARGIL
+KATHUA
+KISHTWAR
+KULGAM
+KUPWARA
+LEH
+POONCH
+PULWAMA
+RAJOURI
+RAMBAN
+REASI
+SAMBA
+SHOPIAN
+SRINAGAR
+UDHAMPUR
+BOKARO
+CHATRA
+DEOGHAR
+DHANBAD
+DUMKA
+EAST SINGHBHUM
+GARHWA
+GIRIDIH
+GODDA
+GUMLA
+HAZARIBAG
+JAMTARA
+KHUNTI
+KODERMA
+LATEHAR
+LOHARDAGA
+PAKUR
+PALAMU
+RAMGARH
+RANCHI
+SAHIBGANJ
+SERAIKELA-KHARSAWAN
+SIMDEGA
+WEST SINGHBHUM
+BAGALKOT
+BALLARI (BELLARY)
+BELAGAVI (BELGAUM)
+BENGALURU (BANGALORE) RURAL
+BENGALURU (BANGALORE) URBAN
+BIDAR
+CHAMARAJANAGAR
+CHIKBALLAPUR
+CHIKKAMAGALURU (CHIKMAGALUR)
+CHITRADURGA
+DAKSHINA KANNADA
+DAVANGERE
+DHARWAD
+GADAG
+HASSAN
+HAVERI
+KALABURAGI (GULBARGA)
+KODAGU
+KOLAR
+KOPPAL
+MANDYA
+MYSURU (MYSORE)
+RAICHUR
+RAMANAGARA
+SHIVAMOGGA (SHIMOGA)
+TUMAKURU (TUMKUR)
+UDUPI
+UTTARA KANNADA (KARWAR)
+VIJAYAPURA (BIJAPUR)
+YADGIR
+ALAPPUZHA
+ERNAKULAM
+IDUKKI
+KANNUR
+KASARAGOD
+KOLLAM
+KOTTAYAM
+KOZHIKODE
+MALAPPURAM
+PALAKKAD
+PATHANAMTHITTA
+THIRUVANANTHAPURAM
+THRISSUR
+WAYANAD
+LAKSHADWEEP
+AGAR MALWA
+ALIRAJPUR
+ANUPPUR
+ASHOKNAGAR
+BALAGHAT
+BARWANI
+BETUL
+BHIND
+BHOPAL
+BURHANPUR
+CHHATARPUR
+CHHINDWARA
+DAMOH
+DATIA
+DEWAS
+DHAR
+DINDORI
+GUNA
+GWALIOR
+HARDA
+HOSHANGABAD
+INDORE
+JABALPUR
+JHABUA
+KATNI
+KHANDWA
+KHARGONE
+MANDLA
+MANDSAUR
+MORENA
+NARSINGHPUR
+NEEMUCH
+PANNA
+RAISEN
+RAJGARH
+RATLAM
+REWA
+SAGAR
+SATNA
+SEHORE
+SEONI
+SHAHDOL
+SHAJAPUR
+SHEOPUR
+SHIVPURI
+SIDHI
+SINGRAULI
+TIKAMGARH
+UJJAIN
+UMARIA
+VIDISHA
+AHMEDNAGAR
+AKOLA
+AMRAVATI
+AURANGABAD
+BEED
+BHANDARA
+BULDHANA
+CHANDRAPUR
+DHULE
+GADCHIROLI
+GONDIA
+HINGOLI
+JALGAON
+JALNA
+KOLHAPUR
+LATUR
+MUMBAI CITY
+MUMBAI SUBURBAN
+NAGPUR
+NANDED
+NANDURBAR
+NASHIK
+OSMANABAD
+PALGHAR
+PARBHANI
+PUNE
+RAIGAD
+RATNAGIRI
+SANGLI
+SATARA
+SINDHUDURG
+SOLAPUR
+THANE
+WARDHA
+WASHIM
+YAVATMAL
+BISHNUPUR
+CHANDEL
+CHURACHANDPUR
+IMPHAL EAST
+IMPHAL WEST
+JIRIBAM
+KAKCHING
+KAMJONG
+KANGPOKPI
+NONEY
+PHERZAWL
+SENAPATI
+TAMENGLONG
+TENGNOUPAL
+THOUBAL
+UKHRUL
+EAST GARO HILLS
+EAST JAINTIA HILLS
+EAST KHASI HILLS
+NORTH GARO HILLS
+RI BHOI
+SOUTH GARO HILLS
+SOUTH WEST GARO HILLS 
+SOUTH WEST KHASI HILLS
+WEST GARO HILLS
+WEST JAINTIA HILLS
+WEST KHASI HILLS
+AIZAWL
+CHAMPHAI
+KOLASIB
+LAWNGTLAI
+LUNGLEI
+MAMIT
+SAIHA
+SERCHHIP
+DIMAPUR
+KIPHIRE
+KOHIMA
+LONGLENG
+MOKOKCHUNG
+MON
+PEREN
+PHEK
+TUENSANG
+WOKHA
+ZUNHEBOTO
+ANGUL
+BALANGIR
+BALASORE
+BARGARH
+BHADRAK
+BOUDH
+CUTTACK
+DEOGARH
+DHENKANAL
+GAJAPATI
+GANJAM
+JAGATSINGHAPUR
+JAJPUR
+JHARSUGUDA
+KALAHANDI
+KANDHAMAL
+KENDRAPARA
+KENDUJHAR (KEONJHAR)
+KHORDHA
+KORAPUT
+MALKANGIRI
+MAYURBHANJ
+NABARANGPUR
+NAYAGARH
+NUAPADA
+PURI
+RAYAGADA
+SAMBALPUR
+SONEPUR
+SUNDARGARH
+KARAIKAL
+MAHE
+PONDICHERRY
+YANAM
+AMRITSAR
+BARNALA
+BATHINDA
+FARIDKOT
+FATEHGARH SAHIB
+FAZILKA
+FEROZEPUR
+GURDASPUR
+HOSHIARPUR
+JALANDHAR
+KAPURTHALA
+LUDHIANA
+MANSA
+MOGA
+MUKTSAR
+NAWANSHAHR (SHAHID BHAGAT SINGH NAGAR)
+PATHANKOT
+PATIALA
+RUPNAGAR
+SAHIBZADA AJIT SINGH NAGAR (MOHALI)
+SANGRUR
+TARN TARAN
+AJMER
+ALWAR
+BANSWARA
+BARAN
+BARMER
+BHARATPUR
+BHILWARA
+BIKANER
+BUNDI
+CHITTORGARH
+CHURU
+DAUSA
+DHOLPUR
+DUNGARPUR
+HANUMANGARH
+JAIPUR
+JAISALMER
+JALORE
+JHALAWAR
+JHUNJHUNU
+JODHPUR
+KARAULI
+KOTA
+NAGAUR
+PALI
+PRATAPGARH
+RAJSAMAND
+SAWAI MADHOPUR
+SIKAR
+SIROHI
+SRI GANGANAGAR
+TONK
+UDAIPUR
+EAST SIKKIM
+NORTH SIKKIM
+SOUTH SIKKIM
+WEST SIKKIM
+ARIYALUR
+CHENNAI
+COIMBATORE
+CUDDALORE
+DHARMAPURI
+DINDIGUL
+ERODE
+KANCHIPURAM
+KANYAKUMARI
+KARUR
+KRISHNAGIRI
+MADURAI
+NAGAPATTINAM
+NAMAKKAL
+NILGIRIS
+PERAMBALUR
+PUDUKKOTTAI
+RAMANATHAPURAM
+SALEM
+SIVAGANGA
+THANJAVUR
+THENI
+THOOTHUKUDI (TUTICORIN)
+TIRUCHIRAPPALLI
+TIRUNELVELI
+TIRUPPUR
+TIRUVALLUR
+TIRUVANNAMALAI
+TIRUVARUR
+VELLORE
+DHALAI
+GOMATI
+KHOWAI
+NORTH TRIPURA
+SEPAHIJALA
+SOUTH TRIPURA
+UNAKOTI
+WEST TRIPURA
+ALMORA
+BAGESHWAR
+CHAMOLI
+CHAMPAWAT
+DEHRADUN
+HARIDWAR
+NAINITAL
+PAURI GARHWAL
+PITHORAGARH
+RUDRAPRAYAG
+TEHRI GARHWAL
+UDHAM SINGH NAGAR
+UTTARKASHI
+AGRA
+ALIGARH
+ALLAHABAD
+AMBEDKAR NAGAR
+AMETHI (CHATRAPATI SAHUJI MAHRAJ NAGAR)
+AMROHA (J.P. NAGAR)
+AURAIYA
+AZAMGARH
+BAGHPAT
+BAHRAICH
+BALLIA
+BALRAMPUR
+BANDA
+BARABANKI
+BAREILLY
+BASTI
+BHADOHI
+BIJNOR
+BUDAUN
+BULANDSHAHR
+CHANDAULI
+CHITRAKOOT
+DEORIA
+ETAH
+ETAWAH
+FAIZABAD
+FARRUKHABAD
+FATEHPUR
+FIROZABAD
+GAUTAM BUDDHA NAGAR
+GHAZIABAD
+GHAZIPUR
+GONDA
+GORAKHPUR
+HAMIRPUR
+HAPUR (PANCHSHEEL NAGAR)
+HARDOI
+HATHRAS
+JALAUN
+JAUNPUR
+JHANSI
+KANNAUJ
+KANPUR DEHAT
+KANPUR NAGAR
+KANSHIRAM NAGAR (KASGANJ)
+KAUSHAMBI
+KUSHINAGAR (PADRAUNA)
+LAKHIMPUR - KHERI
+LALITPUR
+LUCKNOW
+MAHARAJGANJ
+MAHOBA
+MAINPURI
+MATHURA
+MAU
+MEERUT
+MIRZAPUR
+MORADABAD
+MUZAFFARNAGAR
+PILIBHIT
+PRATAPGARH
+RAEBARELI
+RAMPUR
+SAHARANPUR
+SAMBHAL (BHIM NAGAR)
+SANT KABIR NAGAR
+SHAHJAHANPUR
+SHAMALI (PRABUDDH NAGAR)
+SHRAVASTI
+SIDDHARTH NAGAR
+SITAPUR
+SONBHADRA
+SULTANPUR
+UNNAO
+VARANASI
+ALIPURDUAR
+BANKURA
+BIRBHUM
+COOCH BEHAR
+DAKSHIN DINAJPUR (SOUTH DINAJPUR)
+DARJEELING
+HOOGHLY
+HOWRAH
+JALPAIGURI
+JHARGRAM
+KALIMPONG
+KOLKATA
+MALDA
+MURSHIDABAD
+NADIA
+NORTH 24 PARGANAS
+PASCHIM MEDINIPUR (WEST MEDINIPUR)
+PASCHIM (WEST) BURDWAN (BARDHAMAN)
+PURBA BURDWAN (BARDHAMAN)
+PURBA MEDINIPUR (EAST MEDINIPUR)
+PURULIA
+SOUTH 24 PARGANAS
+UTTAR DINAJPUR (NORTH DINAJPUR)
+ADILABAD
+BHADRADRI KOTHAGUDEM
+HYDERABAD
+JAGTIAL
+JANGAON
+JAYASHANKAR BHOOPALPALLY
+JOGULAMBA GADWAL
+KAMAREDDY
+KARIMNAGAR
+KHAMMAM
+KOMARAM BHEEM ASIFABAD
+MAHABUBABAD
+MAHABUBNAGAR
+MANCHERIAL
+MEDAK
+MEDCHAL
+NAGARKURNOOL
+NALGONDA
+NIRMAL
+NIZAMABAD
+PEDDAPALLI
+RAJANNA SIRCILLA
+RANGAREDDY
+SANGAREDDY
+SIDDIPET
+SURYAPET
+VIKARABAD
+WANAPARTHY
+WARANGAL (RURAL)
+WARANGAL (URBAN)
+YADADRI BHUVANAGIRI
