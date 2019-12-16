@@ -15,6 +15,7 @@
     "@babel/register": "^7.7.0",
     "babel-preset-env": "^1.7.0",
     "chalk": "^3.0.0",
+    "esm": "^3.2.25",
     "fuzzy-search": "^3.0.2",
     "inquirer": "^7.0.0",
     "lodash": "^4.17.15",
